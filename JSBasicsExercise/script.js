@@ -24,7 +24,7 @@ console.log(5%4);
 console.log("I'M MARY POPPINS, Y'ALL!");
 
 // Number 6
-console.log("Hawk "+"eye");
+console.log("Hawk"+"eye");
 
 // Number 7
 console.log("Heeyoung Son".length);
